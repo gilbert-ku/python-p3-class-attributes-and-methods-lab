@@ -56,7 +56,7 @@ song3 = Song("Song 3", "Artist 1", "Genre 2")
 print("Total songs:", Song.get_song_count())
 
 
-print("Genres:", Song.get_genres())ez
+print("Genres:", Song.get_genres())
 
 
 print("Artists:", Song.get_artists())
